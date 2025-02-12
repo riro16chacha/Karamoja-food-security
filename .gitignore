@@ -1,0 +1,47 @@
+# Tableau files
+*.twb~
+*.twbr
+*.tde
+*.hyper
+*.tde-journal
+*.hyper-journal
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Data files (if you don't want to include large data files in the repo)
+*.csv
+*.xlsx
+*.xls
+*.shp
+*.dbf
+*.prj
+*.shx
+
+# Processed data (if you want to keep raw data only)
+data/processed/
+
+# Tableau temp files
+*.twbr
+Desktop.ini
+$RECYCLE.BIN/
+
+# Temporary files
+~$*
+*.tmp
+*.temp
+
+# Log files
+*.log
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
